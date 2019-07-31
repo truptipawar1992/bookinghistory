@@ -1,0 +1,14 @@
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\bin\Debug\netcoreapp2.2\CustomerModuleWebAPI.deps.json
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\bin\Debug\netcoreapp2.2\CustomerModuleWebAPI.runtimeconfig.json
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\bin\Debug\netcoreapp2.2\CustomerModuleWebAPI.runtimeconfig.dev.json
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\bin\Debug\netcoreapp2.2\CustomerModuleWebAPI.dll
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\obj\Debug\netcoreapp2.2\CustomerModuleWebAPI.csproj.CoreCompileInputs.cache
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\obj\Debug\netcoreapp2.2\CustomerModuleWebAPI.RazorAssemblyInfo.cache
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\obj\Debug\netcoreapp2.2\CustomerModuleWebAPI.RazorAssemblyInfo.cs
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\obj\Debug\netcoreapp2.2\CustomerModuleWebAPI.AssemblyInfoInputs.cache
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\obj\Debug\netcoreapp2.2\CustomerModuleWebAPI.AssemblyInfo.cs
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\obj\Debug\netcoreapp2.2\CustomerModuleWebAPI.RazorTargetAssemblyInfo.cache
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\bin\Debug\netcoreapp2.2\CustomerModuleWebAPI.pdb
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\obj\Debug\netcoreapp2.2\CustomerModuleWebAPI.dll
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\obj\Debug\netcoreapp2.2\CustomerModuleWebAPI.pdb
+D:\Rajni\Project Taxi\CustomerModuleWebAPI\CustomerModuleWebAPI\obj\Debug\netcoreapp2.2\CustomerModuleWebAPI.csprojAssemblyReference.cache
